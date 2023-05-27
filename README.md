@@ -1,6 +1,6 @@
 # raspberyCar
 
-This project was used to create a robot car controlled by WiFi.
+This project used to create a robot car controlled by WiFi.
 
 ## NeuroNet
 It is used for simple recognition of objects on the camera. Connects to a remote IP camera.
