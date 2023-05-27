@@ -9,5 +9,5 @@ It is used for simple recognition of objects on the camera. Connects to a remote
 It is used as a local server to which the robot connects via SignalR and receives commands
 
 ##
-raspberyCar
+RaspberyCar
 Used with SignalR to receive commands and send data from sensors. Can work on Raspberry Pi Zero W using Mono
