@@ -1,0 +1,67 @@
+﻿.buttonpressed {
+    width: 80px;
+    height: 42px;
+    font-size: xx-large;
+    font-weight: bolder;
+    background: gainsboro;
+    /* margin: 5px; */
+    margin: 0px auto;
+    border-color: aliceblue;
+    cursor: pointer;
+    border: 1px solid;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.container {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+}
+
+#galka {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border: 1px solid;
+    border-radius: 23px;
+}
+
+.galka_ok {
+    background-color: green !important;
+}
+
+.hor2 {
+    margin-top: 10%;
+}
+
+    .hor2 input {
+        width: 50px;
+    }
+
+#savebut {
+    cursor: pointer;
+}
+
+.container {
+    width: 90%;
+    display: table;
+    height: 96%;
+    position: absolute;
+    vertical-align: revert;
+    font-size: inherit;
+    text-align: center;
+}
+
+.inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.hor {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
